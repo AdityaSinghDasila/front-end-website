@@ -1,0 +1,12 @@
+This project is initiated for the following reasons:-
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+1.To learn the layouts like nav bar, menu, buttons/image placements
+
+2.To incorporate handy animations 
+
+3.To be efficient in layout designs of frontends so that mental resources can be used up at the logical end more
+
+4.To gain confidence on front-end before moving to frameworks such as React.js
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
